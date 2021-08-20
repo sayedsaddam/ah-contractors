@@ -31,6 +31,9 @@ Route::get('blog', function(){
 Route::get('contact', function () {
     return view('contact')->with('title', 'Contact us | AH Contractors');
 });
+Route::get('blog-single', function () {
+    return view('blog-single')->with('title', 'Blog Detail > Blog | AH Contractors');
+});
 
 Route::get('site', function(){
     return view('welcome');
