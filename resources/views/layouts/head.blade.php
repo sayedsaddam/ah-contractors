@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Home | AH Contractors</title>
+	<title>{{ $title; }}</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	
@@ -58,19 +58,19 @@
 				</div>
 				<div class="col-md-4 d-flex topper mb-md-0 mb-2 align-items-center">
 					<div class="icon d-flex justify-content-center align-items-center">
-						<span class="fa fa-map"></span>
+						<span class="fa fa-paper-plane"></span>
 					</div>
 					<div class="pr-md-4 pl-md-3 pl-3 text">
-						<p class="con"><span>Free Call</span> <span>+1 234 456 78910</span></p>
+						<p class="con"><span>Free Call</span> <span>+92 51 846 9000</span></p>
 						<p class="con">Call Us Now 24/7 Customer Support</p>
 					</div>
 				</div>
 				<div class="col-md-4 d-flex topper mb-md-0 align-items-center">
-					<div class="icon d-flex justify-content-center align-items-center"><span class="fa fa-paper-plane"></span>
+					<div class="icon d-flex justify-content-center align-items-center"><span class="fa fa-map"></span>
 					</div>
 					<div class="text pl-3 pl-md-3">
 						<p class="hr"><span>Our Location</span></p>
-						<p class="con">198 West 21th Street, Suite 721 New York NY 10016</p>
+						<p class="con">Office # 11, Umer bldg, Jinnah Ave, Blue Area, Isb-PK.</p>
 					</div>
 				</div>
 			</div>
