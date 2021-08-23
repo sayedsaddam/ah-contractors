@@ -34,6 +34,30 @@ Route::get('contact', function () {
 Route::get('blog-single', function () {
     return view('blog-single')->with('title', 'Blog Detail > Blog | AH Contractors');
 });
+Route::get('industries', function(){
+    return 'Industries page will be loaded here...';
+});
+Route::get('help', function(){
+    return 'Help page will be loaded here...';
+});
+Route::get('privacy-policy', function(){
+    return 'Privacy policy page will be loaded here...';
+});
+Route::get('terms-of-use', function(){
+    return 'Terms of use page will be loaded here...';
+});
+Route::get('customer-service', function(){
+    return 'Customer service page will be loaded here...';
+});
+Route::get('prompt-delivery', function(){
+    return 'Prompt delivery page will be loaded here...';
+});
+Route::get('reliable-equipment', function(){
+    return 'Reliable Equipment page will be loaded here...';
+});
+Route::get('new-heavy-equipment', function(){
+    return 'New heavy equipment page will be loaded here...';
+});
 Route::post('/request-quote', 'HomeController@book_now');
 
 Route::get('site', function(){

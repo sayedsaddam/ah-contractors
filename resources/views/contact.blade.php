@@ -71,7 +71,7 @@
                             <span class="fa fa-phone"></span>
                         </div>
                         <div class="text">
-                            <p><span>Phone:</span> <a href="tel://1234567920">+ 1235 2355 98</a></p>
+                            <p><span>Phone:</span> <a href="tel://+92518469000">+92 51 846 9000</a></p>
                         </div>
                     </div>
                     <div class="dbox w-100 d-flex ftco-animate">
@@ -87,7 +87,7 @@
                             <span class="fa fa-globe"></span>
                         </div>
                         <div class="text">
-                            <p><span>Website</span> <a href="#">ah-contractors.com</a></p>
+                            <p><span>Website</span> <a href="/">ah-contractors.com</a></p>
                         </div>
                     </div>
                 </div>

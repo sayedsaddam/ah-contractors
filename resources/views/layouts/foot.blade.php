@@ -5,7 +5,7 @@
             <div class="col-lg col-md-6">
                 <div class="ftco-footer-widget">
                     <h2 class="ftco-heading-2 d-flex align-items-center">About</h2>
-                    <p>Far far away, behind the word mountains, far from the countries.</p>
+                    <p>Licensed under construction and operation of engineering works bye-laws 1987 and having registered offices...</p>
                     <ul class="ftco-footer-social list-unstyled mt-4">
                         <li><a href="#"><span class="fa fa-twitter"></span></a></li>
                         <li><a href="#"><span class="fa fa-facebook"></span></a></li>
@@ -16,7 +16,7 @@
 
             <div class="col-lg-4 col-md-6">
                 <div class="ftco-footer-widget">
-                    <h2 class="ftco-heading-2">Links</h2>
+                    <h2 class="ftco-heading-2">Useful Links</h2>
                     <div class="d-flex">
                         <ul class="list-unstyled mr-md-4">
                             <li><a href="projects"><span class="fa fa-chevron-right mr-2"></span>Project</a></li>
@@ -28,7 +28,7 @@
                         <ul class="list-unstyled ml-md-5">
                             <li><a href="contact"><span class="fa fa-chevron-right mr-2"></span>Contact</a></li>
                             <li><a href="help"><span class="fa fa-chevron-right mr-2"></span>Help</a></li>
-                            <li><a href="privacy-prolicy"><span class="fa fa-chevron-right mr-2"></span>Privacy Policy</a></li>
+                            <li><a href="privacy-policy"><span class="fa fa-chevron-right mr-2"></span>Privacy Policy</a></li>
                             <li><a href="terms-of-use"><span class="fa fa-chevron-right mr-2"></span>Terms of Use</a></li>
                         </ul>
                     </div>
@@ -53,8 +53,8 @@
                     <div class="block-23 mb-3">
                         <ul>
                             <li><span class="fa fa-map-marker mr-3"></span><span class="text">Office # 11, Umer building, Jinnah Avenue, Blue Area, Islamabad-Pakistan, 44000.</span></li>
-                            <li><a href="#"><span class="fa fa-phone mr-3"></span><span class="text">+92 51 846 9000</span></a></li>
-                            <li><a href="#"><span class="fa fa-paper-plane mr-3"></span><span class="text">careers@ah-contractors.com</span></a></li>
+                            <li><a href="tel:+92518469000"><span class="fa fa-phone mr-3"></span><span class="text">+92 51 846 9000</span></a></li>
+                            <li><a href="mailto:careers@ah-contractors.com"><span class="fa fa-paper-plane mr-3"></span><span class="text">careers@ah-contractors.com</span></a></li>
                         </ul>
                     </div>
                 </div>
@@ -104,7 +104,7 @@
                                     <div class="select-wrap">
                                         <div class="icon"><span class="fa fa-chevron-down"></span></div>
                                         <select name="" id="" class="form-control">
-                                            <option value="">Select Your Services</option>
+                                            <option value="" selected>Select Your Services</option>
                                             <option value="">Architecture</option>
                                             <option value="">Renovation</option>
                                             <option value="">Construction</option>
@@ -122,7 +122,7 @@
                                 <textarea name="" id="" cols="30" rows="4" class="form-control" placeholder="Message"></textarea>
                             </div>
                             <div class="form-group">
-                                <input type="submit" value="Request A Quote" class="btn btn-primary py-3 px-4">
+                                <input type="submit" value="submit request" class="btn btn-primary py-3 px-4">
                             </div>
                         </div>
                     </form>
