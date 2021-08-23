@@ -84,7 +84,8 @@
                     </button>
                 </div>
                 <div class="modal-body p-4 p-md-5">
-                    <form action="#" class="appointment-form ftco-animate">
+                    <form action="/request-quote" class="appointment-form ftco-animate">
+                        {{ csrf_field() }}
                         <h3>Request Quote</h3>
                         <div class="">
                             <div class="form-group">

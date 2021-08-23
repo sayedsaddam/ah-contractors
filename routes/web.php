@@ -34,6 +34,7 @@ Route::get('contact', function () {
 Route::get('blog-single', function () {
     return view('blog-single')->with('title', 'Blog Detail > Blog | AH Contractors');
 });
+Route::post('/request-quote', 'HomeController@book_now');
 
 Route::get('site', function(){
     return view('welcome');
