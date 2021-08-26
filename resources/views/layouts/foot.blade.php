@@ -7,6 +7,7 @@
                     <h2 class="ftco-heading-2 d-flex align-items-center">About</h2>
                     <p>Licensed under construction and operation of engineering works bye-laws 1987 and having registered offices...</p>
                     <ul class="ftco-footer-social list-unstyled mt-4">
+                        <li><a href="#"><span class="fa fa-linkedin"></span></a></li>
                         <li><a href="#"><span class="fa fa-twitter"></span></a></li>
                         <li><a href="#"><span class="fa fa-facebook"></span></a></li>
                         <li><a href="#"><span class="fa fa-instagram"></span></a></li>
@@ -16,7 +17,7 @@
 
             <div class="col-lg-4 col-md-6">
                 <div class="ftco-footer-widget">
-                    <h2 class="ftco-heading-2">Useful Links</h2>
+                    <h2 class="ftco-heading-2">quick links <small class="font-weight-lighter text-info text-lowercase">(to navigate around)</small></h2>
                     <div class="d-flex">
                         <ul class="list-unstyled mr-md-4">
                             <li><a href="projects"><span class="fa fa-chevron-right mr-2"></span>Project</a></li>
@@ -49,7 +50,7 @@
 
             <div class="col-lg col-md-6">
                 <div class="ftco-footer-widget">
-                    <h2 class="ftco-heading-2">Have a Questions?</h2>
+                    <h2 class="ftco-heading-2">Have Questions?</h2>
                     <div class="block-23 mb-3">
                         <ul>
                             <li><span class="fa fa-map-marker mr-3"></span><span class="text">Office # 11, Umer building, Jinnah Avenue, Blue Area, Islamabad-Pakistan, 44000.</span></li>

@@ -27,14 +27,14 @@
                         <h2 class="mb-4">AH Contractors, a Construction Company</h2>
                         <div class="d-flex about">
                             <div class="icon"><span class="flaticon-hammer"></span></div>
-                            <h3>We're in this business since 1975 and We provide the best insdustrial services</h3>
+                            <h3>We're standard for the construction industry</h3>
                         </div>
-                        <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+                        <p>Licensed under construction and operation of engineering works bye-laws 1987 and having registered office at Islamabad, AH Contractors has earned a reputation for being unconditionally client-focused, committed to safety and quality. </p>
                         <div class="d-flex video-image align-items-center mt-md-4">
-                            <a href="#" class="video img d-flex align-items-center justify-content-center" style="background-image: url(images/about-2.jpg);">
+                            <a target="_blank" href="https://youtube.com" class="video img d-flex align-items-center justify-content-center" style="background-image: url(images/about-2.jpg);">
                                 <span class="fa fa-play-circle"></span>
                             </a>
-                            <h4 class="ml-4">This is how we work on our clients, Watch video</h4>
+                            <h4 class="ml-4">Here's a video on how we work. Watch now!</h4>
                         </div>
                     </div>
                 </div>
@@ -64,10 +64,10 @@
         <div class="row no-gutters">
             <div class="col-md-6 py-5 bg-secondary aside-stretch">
                 <div class="heading-section heading-section-white p-4 pl-md-0 py-md-5 pr-md-5">
-                    <span class="subheading">Wilcon A Construction Company</span>
-                    <h2 class="mb-4">Best Provider for Industrial Services</h2>
-                    <h4>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</h4>
-                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean</p>
+                    <span class="subheading">AH Contractors A Construction Company</span>
+                    <h2 class="mb-4">Standard for the construction industry</h2>
+                    <h4>As revealed by our repeated clients, we concentrate on specific needs to build strong relationships and consistently exceed expectations. </h4>
+                    <p>Our proficiency, superintendent and dedication are unparalleled. We help purchasers deliver projects that enable current and future generations to flourish. </p>
                 </div>
             </div>
             <div class="col-md-6 d-flex align-items-center">
@@ -308,8 +308,8 @@
         <div class="row ftco-animate justify-content-center">
             <div class="col-md-6 p-4 pl-md-0 py-md-5 pr-md-5 aside-stretch d-flex align-items-center">
                 <div class="heading-section heading-section-white">
-                    <span class="subheading" style="color:#fff;">Read Testimonials</span>
-                    <h2 class="mb-4" style="font-size: 50px;">It's always a joy to hear that the work we do has positively reviews</h2>
+                    <span class="subheading" style="color:#fff;">Read what people say about us</span>
+                    <h2 class="mb-4" style="font-size: 50px;">It's always a joy hearing about being reviewed positively by clients.</h2>
                 </div>
             </div>
             <div class="col-md-6 pl-md-5 py-4 py-md-5 aside-stretch-right">
