@@ -27,7 +27,7 @@
                     <div class="text">
                         <div class="icon"><span class="flaticon-architect"></span></div>
                         <h2>Architecture</h2>
-                        <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+                        <p>We cover all areas of the project and offer a full range of services, from briefing to contract administration, architecture and landscape.</p>
                         <a href="#" class="btn-custom">Read more</a>
                     </div>
                 </div>
@@ -38,7 +38,7 @@
                     <div class="text">
                         <div class="icon"><span class="flaticon-worker"></span></div>
                         <h2>Renovation</h2>
-                        <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+                        <p>We aim to provide fair renovation services by offering the same quality, attention to detail making our process scalable and our service consistent.</p>
                         <a href="#" class="btn-custom">Read more</a>
                     </div>
                 </div>
@@ -49,7 +49,7 @@
                     <div class="text">
                         <div class="icon"><span class="flaticon-hammer"></span></div>
                         <h2>Construction</h2>
-                        <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+                        <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, siberia and constantania.</p>
                         <a href="#" class="btn-custom">Read more</a>
                     </div>
                 </div>
@@ -61,7 +61,7 @@
                     <div class="text">
                         <div class="icon"><span class="flaticon-architect"></span></div>
                         <h2>Interior &amp; Exterior</h2>
-                        <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+                        <p>From simple designs to transforming the outlook, we offer broad, trendy and flexible design and decorating solutions.</p>
                         <a href="#" class="btn-custom">Read more</a>
                     </div>
                 </div>

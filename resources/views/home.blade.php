@@ -6,7 +6,7 @@
             <div class="col-lg-6 ftco-animate">
                 <div class="mt-5">
                     <h1 class="mb-4">We Build <br>Great Projects</h1>
-                    <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove.</p>
+                    <p class="mb-4">Licensed under construction and operation of engineering works bye-laws 1987 and having registered office at Islamabad, AH Contractors has earned a reputation for being unconditionally client-focused, committed to safety and quality.</p>
                     <p><a href="services" class="btn btn-primary">Our Services</a> <a href="#" class="btn btn-white" data-toggle="modal" data-target="#exampleModalCenter">Request A Quote</a></p>
                 </div>
             </div>
@@ -22,7 +22,7 @@
                     <div class="icon justify-content-center align-items-center d-flex"><span class="flaticon-engineer-1"></span></div>
                     <div class="media-body pl-4">
                         <h3 class="heading mb-3">Quality Construction</h3>
-                        <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+                        <p>We deliver the highest value with a sense of urgency by expecting each project team to initiate its own quality assurance efforts.</p>
                     </div>
                 </div>      
             </div>
@@ -31,7 +31,7 @@
                     <div class="icon justify-content-center align-items-center d-flex"><span class="flaticon-worker-1"></span></div>
                     <div class="media-body pl-4">
                         <h3 class="heading mb-3">Professional Liability</h3>
-                        <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+                        <p>We deliver, build trust, learn, collaborate, share, live our culture, are respectful and demonstrate integrity.</p>
                     </div>
                 </div>      
             </div>
@@ -40,7 +40,7 @@
                     <div class="icon justify-content-center align-items-center d-flex"><span class="flaticon-engineer"></span></div>
                     <div class="media-body pl-4">
                         <h3 class="heading mb-3">Dedicated To Our Clients</h3>
-                        <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+                        <p>We treat our clients with respect and dignity in an honest manner and we are dedicating to train and mentor at all levels.</p>
                     </div>
                 </div>      
             </div>
@@ -109,7 +109,7 @@
                     <div class="text">
                         <div class="icon"><span class="flaticon-architect"></span></div>
                         <h2>Architecture</h2>
-                        <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+                        <p>We cover all areas of the project and offer a full range of services, from briefing to contract administration, architecture and landscape.</p>
                         <a href="#" class="btn-custom">Read more</a>
                     </div>
                 </div>
@@ -120,7 +120,7 @@
                     <div class="text">
                         <div class="icon"><span class="flaticon-worker"></span></div>
                         <h2>Renovation</h2>
-                        <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+                        <p>We aim to provide fair renovation services by offering the same quality, attention to detail making our process scalable and our service consistent.</p>
                         <a href="#" class="btn-custom">Read more</a>
                     </div>
                 </div>
@@ -130,8 +130,8 @@
                     <div class="img" style="background-image: url(images/services-3.jpg);"></div>
                     <div class="text">
                         <div class="icon"><span class="flaticon-hammer"></span></div>
-                        <h2>Construction</h2>
-                        <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+                        <h2>Interior / Construction</h2>
+                        <p>From simple designs to transforming the outlook, we offer broad, trendy and flexible design and decorating solutions.</p>
                         <a href="#" class="btn-custom">Read more</a>
                     </div>
                 </div>

@@ -7,10 +7,10 @@
                     <h2 class="ftco-heading-2 d-flex align-items-center">About</h2>
                     <p>Licensed under construction and operation of engineering works bye-laws 1987 and having registered offices...</p>
                     <ul class="ftco-footer-social list-unstyled mt-4">
-                        <li><a href="#"><span class="fa fa-linkedin"></span></a></li>
-                        <li><a href="#"><span class="fa fa-twitter"></span></a></li>
-                        <li><a href="#"><span class="fa fa-facebook"></span></a></li>
-                        <li><a href="#"><span class="fa fa-instagram"></span></a></li>
+                        <li><a target="_blank" href="https://linkedin.com/company/ahcontractors"><span class="fa fa-linkedin"></span></a></li>
+                        <li><a target="_blank" href="https://twitter.com/AH_Contractors"><span class="fa fa-twitter"></span></a></li>
+                        <li><a target="_blank" href="https://www.facebook.com/alhayatcontractors"><span class="fa fa-facebook"></span></a></li>
+                        <li><a target="_blank" href="https://www.instagram.com/ah.contractors/"><span class="fa fa-instagram"></span></a></li>
                     </ul>
                 </div>
             </div>
