@@ -85,8 +85,8 @@
             <div class="col-md-12 text-center">
                 <div class="img"  style="background-image: url('images/bg_2.jpg');">
                     <div class="overlay"></div>
-                    <h2>Providing Personalized and High Quality Services</h2>
-                    <p>We can manage your dream building A small river named Duden flows by their place</p>
+                    <h2>Building The Future Together</h2>
+                    <p>Exhibiting company culture, strong leadership and an unparalleled commitment to practice and grow.</p>
                     <p class="mb-0"><a href="#" data-toggle="modal" data-target="#exampleModalCenter" class="btn btn-primary px-4 py-3">Request A Quote</a></p>
                 </div>
             </div>
@@ -130,8 +130,8 @@
                     <div class="img" style="background-image: url(images/services-3.jpg);"></div>
                     <div class="text">
                         <div class="icon"><span class="flaticon-hammer"></span></div>
-                        <h2>Interior / Construction</h2>
-                        <p>From simple designs to transforming the outlook, we offer broad, trendy and flexible design and decorating solutions.</p>
+                        <h2>Construction</h2>
+                        <p>The AH Contractors company has been providing construction services to a long list of clients for two years. With a commitment to people...</p>
                         <a href="#" class="btn-custom">Read more</a>
                     </div>
                 </div>

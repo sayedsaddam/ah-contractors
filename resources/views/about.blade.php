@@ -49,8 +49,8 @@
             <div class="col-md-12 text-center">
                 <div class="img"  style="background-image: url(images/bg_2.jpg);">
                     <div class="overlay"></div>
-                    <h2>Providing Personalized and High Quality Services</h2>
-                    <p>We can manage your dream building A small river named Duden flows by their place</p>
+                    <h2>Building the future together</h2>
+                    <p>Exhibiting company culture, strong leadership and an unparalleled commitment to practice and grow.</p>
                     <p class="mb-0"><a href="#" data-toggle="modal" data-target="#exampleModalCenter" class="btn btn-primary px-4 py-3">Request A Quote</a></p>
                 </div>
             </div>

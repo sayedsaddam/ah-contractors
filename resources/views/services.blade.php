@@ -49,7 +49,7 @@
                     <div class="text">
                         <div class="icon"><span class="flaticon-hammer"></span></div>
                         <h2>Construction</h2>
-                        <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, siberia and constantania.</p>
+                        <p>...innovation and process, we put forward to clients a wide range of construction services that include general construction etc.</p>
                         <a href="#" class="btn-custom">Read more</a>
                     </div>
                 </div>
