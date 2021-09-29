@@ -52,7 +52,7 @@
 			<div class="row d-flex align-items-start align-items-center px-3 px-md-0">
 				<div class="col-md-4 d-flex mb-2 mb-md-0">
 					<a class="navbar-brand d-flex align-items-center" href="/">
-						<span class="flaticon flaticon-crane"></span>
+						<img src="images/ahc_logo1.png" alt="ah-contractors-logo" id="ah_logo" srcset="">
 						<span class="ml-2">AH <small>contractors</small></span>
 					</a>
 				</div>

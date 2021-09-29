@@ -162,7 +162,9 @@ pre {
 
 figure {
   margin: 0 0 1rem; }
-
+#ah_logo{
+  width: 58px;
+  height: 60px; }
 img {
   vertical-align: middle;
   border-style: none; }
@@ -8562,7 +8564,8 @@ h1, h2, h3, h4, h5,
   .navbar-brand span {
     color: #000000;
     display: block;
-    line-height: 1; }
+    line-height: 1;
+    padding-top: 25px; }
     .navbar-brand span small {
       display: block;
       font-size: 11px;
