@@ -1,6 +1,6 @@
 @include('layouts/head')
 
-<section class="hero-wrap hero-wrap-2" style="background-image: url('images/bg_2.jpg');" data-stellar-background-ratio="0.5">
+<section class="hero-wrap hero-wrap-2" style="background-image: url('images/web-2000x1333.jpg');" data-stellar-background-ratio="0.5">
     <div class="overlay"></div>
     <div class="container">
         <div class="row no-gutters slider-text align-items-end justify-content-start">
@@ -16,7 +16,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6 d-flex align-items-stretch">
-                <div class="about-wrap img w-100" style="background-image: url(images/about.jpg);">
+                <div class="about-wrap img w-100" style="background-image: url(images/1000x1141.jpg);">
                     <div class="icon d-flex align-items-center justify-content-center"><span class="flaticon-crane"></span></div>
                 </div>
             </div>
@@ -47,7 +47,7 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-12 text-center">
-                <div class="img"  style="background-image: url(images/bg_2.jpg);">
+                <div class="img"  style="background-image: url(images/2000x1333.jpg);">
                     <div class="overlay"></div>
                     <h2>Building the future together</h2>
                     <p>Exhibiting company culture, strong leadership and an unparalleled commitment to practice and grow.</p>
@@ -59,7 +59,7 @@
 </section>
 
 <section class="ftco-section ftco-no-pt ftco-no-pb ftco-counter">
-    <div class="img image-overlay" style="background-image: url(images/about-3.jpg);"></div>
+    <div class="img image-overlay" style="background-image: url(images/1000x667.jpg);"></div>
     <div class="container">
         <div class="row no-gutters">
             <div class="col-md-6 py-5 bg-secondary aside-stretch">
